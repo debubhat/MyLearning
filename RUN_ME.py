@@ -24,8 +24,8 @@ If you have any questions, please send email to IBridgePy@gmail.com
 fileName='example_place_market_and_limit_order.py'
 
 #!!!!!! IMPORTANT  !!!!!!!!!!!!!!!!!
-#accountCode='U2091921' # You need to change it to your own IB account number
-accountCode='DU682065'
+#accountCode='XXXXXXXX' # You need to change it to your own IB account number
+accountCode='XXXXXXXX'
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 '''
